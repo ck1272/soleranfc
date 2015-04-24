@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Solera</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nfc_reader">Solera</string>
+    <string name="welcome">\n\n\n\t\t\tWelcome to Solera\n\n\n\t\t\tScan a tag to begin</string>
+    <string name="webpage">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSolera Webpage: </string>
+    <string name="solera_url">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\thttp://solera.masonegger.com/</string>
+
+</resources>
