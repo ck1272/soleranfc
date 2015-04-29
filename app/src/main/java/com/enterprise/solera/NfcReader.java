@@ -74,9 +74,8 @@ public class NfcReader extends Activity {
 				Drawable pic = picRet.get();
 				imgView.setImageDrawable(pic);
 			} catch (Exception e) {
-				// TODO Auto-generated catch block
-                System.out.println("FUCK THIS SHIT");
-				e.printStackTrace();
+				TextView txtView = (TextView) findViewById(R.id.name);
+        	 		txtView.setText("Error Scanning Tag");
 			}
 		}
 	}
